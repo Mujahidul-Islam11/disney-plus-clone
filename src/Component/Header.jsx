@@ -86,7 +86,7 @@ const Header = () => {
       <img
         src="https://i.postimg.cc/Hsk4KD86/imgbin-computer-icons-portable-network-graphics-avatar-icon-design-avatar-Ds-Z54-Du30h-Tr-Kfx-BG5-Pbwvzg-E.png"
         alt=""
-        className="rounded-full w-[40px] md:w-[60px] h-[30px] md:h-[40px] mt-3"
+        className="rounded-full w-[40px] md:w-[60px] h-[30px] md:h-[40px] mt-2"
       />
     </div>
   );
